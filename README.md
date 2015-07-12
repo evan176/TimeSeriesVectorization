@@ -1,4 +1,4 @@
-eriesVectorization
+# TimeSeriesVectorization
 This toolbox provides some time series vectorization methods which could give better representation for classification / clustering or other analysis.
 
 ## BoWSp
